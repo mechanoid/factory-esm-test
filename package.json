@@ -10,5 +10,10 @@
   "license": "Apache-2.0",
   "bin": {
     "factory-esm-test": "bin/factory-esm-test.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-standard": "^17.0.0-1",
+    "eslint-plugin-node": "^11.1.0"
   }
 }
